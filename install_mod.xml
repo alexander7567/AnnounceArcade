@@ -63,7 +63,7 @@ All I done was made it into an AutoMod file and changed the words around a littl
 				<find><![CDATA[?>]]></find>
 				<action type="before-add"><![CDATA[// Start - Socialnet - Arcade Status
 $lang = array_merge($lang, array(
-   'SN_ARCADE_POST_TEXT1'   => "New highscore in the game %s achiieved!\nMy high score is: %s points.",
+   'SN_ARCADE_POST_TEXT1'   => "New highscore in the game %s achieved!\nMy high score is: %s points.",
    'SN_ARCADE_POST_TEXT2'   => 'The old high score was held by  %s. With a score of %s points.'
 ));
 // End - Socialnet - Arcade Status]]></action>
